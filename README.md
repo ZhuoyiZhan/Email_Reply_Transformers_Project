@@ -5,7 +5,8 @@ Two-minute overview providing context, stating the problem the project is addres
 
 ## Presentation materials	(25)	
 Interactive Huggingface Spaces site using guidance text and graphics
-Expeienment:[(Conversation with ChatGPT on Poe.html)](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ)
+
+Experiement:[(Conversation with ChatGPT on Poe.html)](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ)
 
 ## Model card/dataset card	(10)	
 Descriptive card covering uses, sources, permissions, code
