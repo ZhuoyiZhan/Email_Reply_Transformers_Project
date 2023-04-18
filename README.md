@@ -9,7 +9,7 @@ Interactive Huggingface Spaces site using guidance text and graphics
 Experiement:[(Conversation with ChatGPT on Poe.html)](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ)
 
 ## Model card/dataset card	(10)	
-LangChain is a tool that allows answering questions over specific documents by only utilizing the information in those documents to construct an answer. The following steps are involved in the process:
+**LangChain** is a tool that allows answering questions over specific documents by only utilizing the information in those documents to construct an answer. The following steps are involved in the process:
 
 1. Load the document into memory.
 2. Split the document into smaller chunks of text using the "CharacterTextSplitter" class from the "text_splitter" module.
