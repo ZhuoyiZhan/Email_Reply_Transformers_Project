@@ -19,13 +19,13 @@ First, we tested various generative AI models based on a collection of anonymize
 	
 Low accuracy:
 * BingGPT	
-* Claude![exp1](https://poe.com/s/2bVVKW3rn9qgmfS7bbTq) ![exp2](https://poe.com/s/ZkLhjtam31IZiwnBIl34)
+* Claude [exp1](https://poe.com/s/2bVVKW3rn9qgmfS7bbTq) [exp2](https://poe.com/s/ZkLhjtam31IZiwnBIl34)
 
 Medium accuracy:
-* Sage ![exp1](https://poe.com/s/NdsKGQuyAjWgW3KklRnV) ![exp2](https://poe.com/s/DMrg9Ca6vIBk5TpXkujO)
+* Sage [exp1](https://poe.com/s/NdsKGQuyAjWgW3KklRnV) [exp2](https://poe.com/s/DMrg9Ca6vIBk5TpXkujO)
 
 High accuracy:
- * ChatGPT ![exp1](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ) ![exp2](https://poe.com/s/fhZP7avLBdmoFy3VWwMD)
+ * ChatGPT [exp1](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ) [exp2](https://poe.com/s/fhZP7avLBdmoFy3VWwMD)
 
 Commonalities/Conclusions: 
  * Informal, casual language works best
