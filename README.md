@@ -29,8 +29,8 @@ We want to create a Q&A solution to craft emails from Data Science Undergraduate
 **Generative Models:**
 | Low Accuracy | Medium Accuracy | High Accuracy |
 | -------- | -------- | -------- |
-| Bing GPT   | Sage [exp1](https://poe.com/s/NdsKGQuyAjWgW3KklRnV) [exp2](https://poe.com/s/DMrg9Ca6vIBk5TpXkujO)  | ChatGPT [exp1](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ) [exp2](https://poe.com/s/fhZP7avLBdmoFy3VWwMD)  |
-| Claude [exp1](https://poe.com/s/2bVVKW3rn9qgmfS7bbTq) [exp2](https://poe.com/s/ZkLhjtam31IZiwnBIl34)  |   |    |
+| Bing GPT   | Sage [ex1](https://poe.com/s/NdsKGQuyAjWgW3KklRnV) [ex2](https://poe.com/s/DMrg9Ca6vIBk5TpXkujO)  | ChatGPT [ex1](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ) [ex2](https://poe.com/s/fhZP7avLBdmoFy3VWwMD) [ex3](https://chat.openai.com/c/88459bec-9ddf-49d5-8a93-f5349d14415c)
+| Claude [ex1](https://poe.com/s/2bVVKW3rn9qgmfS7bbTq) [ex2](https://poe.com/s/ZkLhjtam31IZiwnBIl34)  |   |    |
 
 **ChatGPT:** 
  * Informal, casual language works best
