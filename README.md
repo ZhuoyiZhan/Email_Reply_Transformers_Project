@@ -51,9 +51,9 @@ Expand the frequently asked question list with AI-generated results
 
 
 ## Resource links
-- Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide
-- JailBreak Chat](https://www.jailbreakchat.com/
-- Lang Chain Notebook (https://github.com/hwchase17/langchain
-- Lang Chain Tutorial (https://www.python-engineer.com/posts/langchain-crash-course/
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [JailBreak Chat](https://www.jailbreakchat.com/)
+- [Lang Chain Notebook](https://github.com/hwchase17/langchain)
+- [Lang Chain Tutorial](https://www.python-engineer.com/posts/langchain-crash-course/)
 
 ## Code demonstration	
