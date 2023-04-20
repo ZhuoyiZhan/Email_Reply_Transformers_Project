@@ -4,8 +4,7 @@ Zhuoyi Zhan, Sovann Chang, Dara Kuno
 ## Overview	
 **Prompt Engineering**, also known as **In-Context Prompting**, refers to methods for how to communicate with LLMs to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.
 
-**LangChain** is a tool that allows answering questions over specific documents by only utilizing the information in those documents to construct an answer. The following steps are involved in the process:
-
+**LangChain** is a tool that allows answering questions over specific documents by only utilizing the information in those documents to construct an answer. 
 
 ## Task
 Create a Q&A solution to craft emails from Data Science Undergraduate students on behalf of the Data Science Institute.  The goal is to feed emails into a model, use prompt engineering to craft a response, and send the results back to the DSI.  Either the model finds the correct answer and drafts the appropriate response, or, it tells the DSI that further review is needed.
