@@ -11,6 +11,67 @@ Zhuoyi Zhan, Sovann Chang, Dara Kuno
 We want to create a Q&A solution to craft emails from Data Science Undergraduate students on behalf of the Data Science Institute.  The goal is to feed emails into a model, use prompt engineering to craft a response, and send the results back to the DSI.  Either the model finds the correct answer and drafts the appropriate response, or, it tells the DSI that further research is needed.
 
 ## Implementation
+First idea - give each potential chatbot a few questions of context and see how they performed on those. Use emails that we made up to fit the questions. 
+
+**Bing Chat:**
+Seemed to have trouble getting the right information. Hallucinated and made up things that didn’t exist.
+An attempt to fix it led us to realize that we can't direct it towards a specific link.
+
+![image](https://user-images.githubusercontent.com/59686399/233250654-542d400e-4b9f-4fde-93b4-00d1e0a8a8e0.png)
+<br>
+
+**ChatGPT:**
+https://poe.com/s/dx8Nep1p8GQviwy8S7rZ
+
+Note: Sage performed very similarly to ChatGPT
+
+<br>
+
+**Claude:**
+https://poe.com/s/2bVVKW3rn9qgmfS7bbTq
+
+<br>
+
+We decided to move forward with the two best models: ChatGPT and Sage. To test its performance on emails that aren't answered by the FAQs, we made it clear that if the answer to the email’s question couldn’t be found in the FAQs, the chatbot should respond that it cannot answer the question.
+
+**ChatGPT:**
+https://poe.com/s/fhZP7avLBdmoFy3VWwMD
+
+**Sage:**
+https://poe.com/s/DMrg9Ca6vIBk5TpXkujO
+
+<br>
+
+### Testing all FAQs as context
+
+We discovered that Poe cannot handle the entire text of the FAQ page; it crashes and reloads to before the message was sent. Instead, we migrated to ChatGPT's website. ChatGPT was supposed to support up to 4096 tokens of context at the time, which is around 3000 words. The entire FAQ page is ~1500 words, so it should easily fit.
+<br><br>
+We uploaded the FAQs and ask for a one-sentence summary of each answer:
+
+https://sharegpt.com/c/dYfys52
+
+<br>
+
+This is weird - was ChatGPT confusing itself by trying to pull other FAQs as context? We instructed it more explicitly to only use the provided FAQs as context - no other information:
+
+https://sharegpt.com/c/FAfZoKK
+
+https://sharegpt.com/c/j1gpAmy
+
+<br>
+
+It appeared to know its task, but forgot it after the long message with the FAQs. To take this to the extreme, we ran two more tests:
+
+https://sharegpt.com/c/n8Soce0
+
+https://sharegpt.com/c/3EG6Fri
+
+<br>
+
+This is proof of a very weird concept - although ChatGPT claims to be able to handle long contexts, the long context message appears to sort of reset it, such that it forgets everything from the chat that happened before the message!
+
+<br><br><br>
+
 **Lang Chain**
 1. Load the document into memory.
 2. Split the document into smaller chunks of text using the "CharacterTextSplitter" class from the "text_splitter" module.
@@ -29,8 +90,8 @@ We want to create a Q&A solution to craft emails from Data Science Undergraduate
 **Generative Models:**
 | Low Accuracy | Medium Accuracy | High Accuracy |
 | -------- | -------- | -------- |
-| Bing GPT   | Sage [ex1](https://poe.com/s/NdsKGQuyAjWgW3KklRnV) [ex2](https://poe.com/s/DMrg9Ca6vIBk5TpXkujO)  | ChatGPT [ex1](https://poe.com/s/dx8Nep1p8GQviwy8S7rZ) [ex2](https://poe.com/s/fhZP7avLBdmoFy3VWwMD) [ex3](https://chat.openai.com/c/88459bec-9ddf-49d5-8a93-f5349d14415c)
-| Claude [ex1](https://poe.com/s/2bVVKW3rn9qgmfS7bbTq) [ex2](https://poe.com/s/ZkLhjtam31IZiwnBIl34)  |   |    |
+| Bing GPT   | Sage   | ChatGPT 
+| Claude |
 
 **ChatGPT:** 
  * Informal, casual language works best
@@ -41,7 +102,7 @@ We want to create a Q&A solution to craft emails from Data Science Undergraduate
 - Strong Results: Occurs when you have keywords from the FAQ page directly in the question.
 - Weak Results: Because it is a similarity search, if the keywords are not specifically in the text, results drop dramatically.
 
-## Final Approach
+## Suggested Approach
 Combine lang chain and chatGPT to create the best output.  Lang Chain will reduce the input length which significantly improves chatGPT.  Then, ChatGPT can help determine if the similarity approach is accurate and it could potentially find related words that Lang Chain could not.  Finally, ChatGPT can create the response email that either yields an appropriate response or tells the user that further research is needed as it is outside the scope of the FAQ page.
 
 ## Critical Analysis
