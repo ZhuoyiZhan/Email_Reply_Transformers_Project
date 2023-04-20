@@ -1,0 +1,124 @@
+Question: How do I declare the Data Science Minor?
+Answer: Use the forms and follow the procedures for your home college. See How to Declare the Data Science Minor.
+
+
+Question: When should I declare the Data Science Minor?
+Answer: While minor declarations can be made any time, DS courses will give some preference to students who have officially declared the Data Science Minor. So we recommend declaring the minor sooner rather than later. It is always possible to drop a declared minor. Minor declarations must be submitted at least two weeks before registration begins. Otherwise, the minor declaration will not be processed until after registration. No preference will be given during registration for an “intent” to declare because the minor declaration was made too late.
+
+
+Question: I declared the Data Science Minor, but I did not get into the class I wanted to take for the minor. Why?
+Answer: First, preference for students who have declared the minor only applies to DS courses, not other courses. Second, if you declared the minor within two weeks of registration, your minor declaration will. not show up on YES, and you will not have preference. Third, while we try to hold as many seats for students who have declared the minor as we can, not all seats are reserved.
+
+
+Question: I am a first-year A&S student. Can I really declare the Data Science Minor now?
+Answer: Yes. While A&S students are usually prevented from declaring a major or minor until sophomore year, first-year A&S students can declare the Data Science Minor. As noted in the previous question, this can be important to do since some popular core DS courses will give some preference to students who have officially declared Data Science as a minor.
+
+
+Question: I am a current junior (rising senior), can I complete the Data Science Minor (for Spring 2021 juniors only)?
+Answer: Juniors must contact the Director of Undergraduate Data Science to discuss options. DS 1000 is not open to current juniors (rising seniors). DS 3100 will not be taught next year (Fall 2021 or Spring 2022) and will need to be suitably replaced, which will require an approved plan from the Director. Furthermore, while DS / CS 3262 is currently slated to be taught Spring 2022, that is not fully guaranteed, so students should see if they can take one of the other machine learning options.
+
+
+Question: I am a rising senior or current senior and cannot register for DS 1000. Why?
+Answer: Rising seniors and current seniors can only register for DS 1000 if there are available seats immediately before the semester begins with permission of the instructor. DS 1000 is intended as an introduction to data science for first years and sophomores, which is why this restriction is in place.
+
+
+Question: What college is the home of the Data Science Minor?
+Answer: The Data Science Minor is a trans-institutional minor, shared by A&S, Blair, Engineering, and Peabody.
+
+
+Question: I am an A&S student. Do DS courses count as A&S courses?
+Answer: All courses with a DS prefix count as courses within each of the colleges, including A&S. If you are an A&S student, and are taking a course that is cross-listed, make sure you enroll in the one with the DS prefix. Electives outside of A&S without the DS prefix will generally not count as A&S courses, so plan accordingly.
+
+
+Question: What are the unique credit hour rules for the Data Science Minor?
+Answer: Students electing an undergraduate minor in Data Science must follow academic regulations regarding minors in their home college, including but not limited to regulations regarding unique hours. The unique credit hour rule is specific to the College of Arts and Science and Peabody College. The School of Engineering and Blair School of Music do not have a unique credit hour rule. The Data Science minor cannot waive this rule. Please talk with your academic advisor about how to satisfy these requirements.
+
+
+Question: DS 1000
+Answer: Thank you for your interest in DS 1000! The course is full for the fall 2021 semester. Due to student demand and the transinstitutional nature of the course, we cannot make special exceptions as to which students, if any, on the waitlist are able to enroll. DS 1000 will be offered again in the spring semester.
+
+
+Question: What computer programming course should I take?
+Answer: See What Programming Course To Take? In general, students interested in data science and scientific computing (not in computer science per se) should learn Python (and R).
+
+
+Question: How do I find courses approved for the data science minor on YES?
+Answer: On YES, to select all courses approved for credit in the Data Science minor offered in a given semester, select the “Advanced” link next to the search box, select the “Class Attributes” drop-down box on the bottom right of the advanced search page, and then select “Eligible for Data Science” to find all courses. (Note that these course tags will not all be in place on YES until the registration period for Fall 2021 begins.)
+
+
+Question: Can other courses, besides those listed, count towards the Data Science Minor?
+Answer: New courses, special topics courses, or graduate-level courses that seem related to data science could count as electives. Contact the Director of Undergraduate Data Science to request consideration.
+
+
+Question: Why doesn’t CS 1104 count towards the Data Science Minor?
+Answer: It does, as a prerequisite to CS 2204, which counts towards the minor. CS / DS 1100 was created as a new single-semester programming course for the Data Science Minor. It roughly has 2/3 the content of CS 1104 and 1/3 the content of CS 2204. While CS / DS 1100 counts as a single semester of programming for the minor, we strongly encourage students interested in data science, and in using data science tools and techniques, to take two semesters of programming in Python (CS / DS 1100 or CS 1104, followed by CS 2204). If you have taken CS 1104, you can take CS 1100, but you will only receive a total of four credits for the two courses. See also What Programming Course To Take?
+
+
+Question: I see that after having taken CS 1104, I can take CS/DS 1100 instead of taking CS 2204. What are the downsides of doing so?
+Answer: After taking CS 1104, we do recommend you take CS 2204. If you are interested in data science, a broader experience in Python is desirable (in fact, we recommend that students having taken CS 1100 try to take CS 2204 as well). CS/DS 1100 and 1104 have significant overlap (both are introductions to programming using Python). That said, it is permissible to take CS/DS 1100 after having taken CS 1104. You will only get 1 (out of 3) credit hours for CS/DS 1100 (after having taken CS 1104), but the combination of CS/DS 1100 and 1104 will satisfy the DS minor programming requirement. Note that if you enroll in three 3-hour courses and CS/DS 1100 (after having taken CS 1104) it will look like you are registered for 12 credit hours during registration and at the start of the semester, but your credit hours will be reduced to only 10 credit hours (because the credits for CS/DS 1100 will be cut back to 1 after the add/drop period). Enrolling in fewer than 12 credit hours can have significant consequences on financial aid and potentially on visa status for international students. Please be mindful of this.
+
+
+Question: What is the difference between CS 1100 and DS 1100?
+Answer: Nothing. They are the same course. They meet the same time in the same place and are taught by the same instructor. They are just cross-listed.
+
+
+Question: I have taken CS 1101. What computer programming course should I take next?
+Answer: You have two options. You can either take CS 2201 (in C++) or take CS 1100 (in Python). Of course, you could also take CS 1104 and 2204 (in Python). CS 1100, 2201, and 2204 all satisfy the programming requirement for the minor. Note that CS 2201 is a prerequisite for many upper-level CS courses (as well as required for the CS major and minor). For more information, see What Programming Course To Take?
+
+
+Question: ECON 3750 and MATH 3670 are listed both as satisfying the core machine learning requirement and as electives. If I take one, will it double-count for both requirements?
+Answer: No. They are listed under both because a student who takes one of the other machine learning courses to satisfy the core requirement (CS/DS 3262 or CS 4262) can also take ECON 3750 or MATH 3670 as an elective; the content is sufficiently different that both can count towards the minor, but one course cannot double-count for two minor requirements.
+
+
+Question: Can I take ECON 3750 or MATH 3670 as an elective if I have already taken CS 3262 or CS 4262?
+Answer: Yes (see above). ECON 3750 and MATH 3670 are sufficiently different from CS 3262 or CS 4262 (and from each other) that you can take these as electives. In fact, you could take ECON 3750 to satisfy the machine learning requirement and then take MATH 3670 as an elective.
+CS 3262 can count towards the Data Science minor. CS 3262 does not count directly towards the Computer Science major requirements but could be used as either a tech elective or open elective for Computer Science majors.
+
+
+Question: Why doesn’t MATH 2820 count towards the Data Science Minor?
+Answer: It does, as a prerequisite to MATH 2821, which counts towards the minor. The two-course sequence of MATH 2820 and MATH 2821 counts towards the Data Science Minor; the two-course sequence is required because MATH 2820 goes deep into mathematical foundations of probability ad statistics concepts, but does not by itself cover the breadth of topics of other introductory statistics courses. This two-course sequence provides an excellent introduction to mathematical statistics.
+
+
+Question: Can I do research for course credit?
+Answer: Yes, you can do research for course credit (including DS 3850). More information can be found here: https://www.vanderbilt.edu/undergrad-datascience/ds-3850-research-in-data-science/
+
+
+Question: I am interested in the Undergraduate Data Science Immersion Program. How can I participate?
+Answer: Some competitive summer immersion programs include DSI-SPR and Data Science for Social Good (DSSG). More information can be found on the following websites.
+https://www.vanderbilt.edu/datascience/academics/undergraduate/summer-research-program/
+https://www.vanderbilt.edu/datascience/data-science-for-social-good/
+To get involved in data-science-oriented research with a faculty member, you will need to reach out to the faculty member. Pointers can be found here: https://www.vanderbilt.edu/undergrad-datascience/research-and-immersion-overview/. Having that research count towards the immersion requirement will be between your faculty mentor and your faculty immersion coordinator.
+Additional information about research opportunities will be posted on the website in the future.
+
+
+Question: How do I ask a question about the Data Science?
+Answer: If you have questions about the Data Science Minor or Immersion opportunities in data science, please email us: undergrad.datascience@vanderbilt.edu
+
+
+Question: To whom can I petition if the Director denies my request?
+Answer: The Governing Board of the Data Science Minor acts as the college-level oversight body for this trans-institutional minor and would be the appropriate next step for petitions related to the minor.
+
+
+
+
+Question: Hope you are well. I’m hoping to take an online course this summer in order to fulfill my Machine Learning requirement if that’s possible. I wanted to ask if you had any summer course recommendations  such as those offered by Harvard extension and that are affordable. 
+Answer: I’d suggest approaching this through the generalized machine learning point of view, particularly through CS. DS 3262 may be reasonable to try to find a course which meets the requirements as machine learning is an established field, and many schools have machine learning courses. Additionally, the ML requirement for the minor can be fulfilled by CS 4262, which is the standard machine learning course in computer science. Although covering similar content, DS 3262 in particular is meant for a broader audience of both CS and non-CS students, and so if you take a CS ML course (i.e., equivalent to CS 4262) without having the background of a CS major, this may present some additional challenges in terms of navigating the course content. A great place to look for courses that have the ability to fulfill this requirement is through VU’s online transfer credit tool which can be found here: https://registrar.vanderbilt.edu/transfer-credit.php . This may lead to some online courses offered through some Universities, although I’m not sure of the extent to which this has already been explored by students in the past. I hope this helps to answer your question! 
+
+
+Question: I was looking at the course registration for next fall and there is only one section available for data science fundamentals, however this time conflicts with another required project course that I need to take. Is there any way I could still take this course? Would there be a possibility for another section or another class that can replace data science fundamentals? I have a few questions about the minor and I will enumerate my questions below: I will take DS 3100 Fundamentals of Data Science (for Data Science Fundamentals) and DS 3262 Applied Machine Learning (for Machine Learning) when I study abroad. Do you recommend doing so? If not, please elaborate on the pros and cons of taking it abroad. Thanks for your help! 
+Answers:Hi FirstName, answers below inline: Practically speaking, it can be challenging to find a course that fulfills the requirements for DS 3100, as it is a 4-credit hour course, and the content is rather new to the academic stage, even worldwide. DS 3262 may be reasonable to try to find a course which meets the requirements as machine learning is an established field, and many schools have machine learning courses. Additionally, the ML requirement for the minor can be fulfilled by CS 4262, which is the standard machine learning course in computer science. Although covering similar content, DS 3262 in particular is meant for a broader audience of both CS and non-CS students, and so if you take a CS ML course (i.e., equivalent to CS 4262) without having the background of a CS major, this may present some additional challenges in terms of navigating the course content. I would certainly recommend taking DS 3100 here, even because practically speaking, it is difficult to find a course which will fulfill these requirements, especially with the credit hours required. The ML requirement may be more reasonable to fulfill abroad, especially if you’re a CS major. 
+
+Question: I was looking at the course registration for next fall and there is only one section available for data science fundamentals, however this time conflicts with another required project course that I need to take. Is there any way I could still take this course? Would there be a possibility for another section or another class that can replace data science fundamentals? 
+Answer: What year are you? DS 3100 is offered twice per year - once in the spring, and once in the fall. You will have these two opportunities next academic year, and if you are not a senior, you will have even further opportunities in the coming years. DS 3100 is the only course which fulfills the DS Minor fundamentals requirement. I hope this helps to answer your question! 
+
+Question: To Whom It May Concern:  I am currently a junior at Vanderbilt. I am looking to complete the Data Science Minor next year and was wondering if any exceptions would be made for the intro class since I am a senior. I am also open to taking it over the summer, but am not finding any approved classes at other universities. I look forward to hearing from you. 
+Answer: Currently DS 1000 is not offered during the summer. However, you can certainly take DS 1000 in the fall or spring semesters of next year; seniors are not restricted from taking DS 1000, but you are unable to enroll during initial 2 or so weeks of registration. In the final week of registration, and also during the open enrollment period, you will be able to register for DS 1000 so long as seats are available. DS 1000 is a fantastic course, and the most benefit is reaped from it by taking it prior to DS 3100. If you've already taken DS 3100 or will be enrolled in it next semester as a senior, you can use an approved DS Minor elective to satisfy the DS Minor intro requirement (i.e., usually fulfilled by DS 1000). You can see a list of electives here: https://www.vanderbilt.edu/undergrad-datascience/minor/ I hope this helps to answer your question! 
+
+Question: My name is FirstName LastName and I am a junior DS minor. I was hoping to take a DS elective class and was wondering if BSCI 3270 (Statistical Methods in Biology) or BSCI 3890 (Special Topics in Biological Sciences - Programming for Biologists) would count. Neither of them is specifically listed on the DS elective website but each has very close equivalents on the website.  Let me know if these classes count or if there is any more information I can provide. Have a Wonderful Day, FirstName LastName 
+Answer: Hi FirstName, Thanks so much for reaching out, and this is a great question! BSCI 3270 already counts towards the DS Minor and can used to satisfy the statistics requirement. However, this does mean that it cannot be used as an elective. On the other hand, also BSCI 3890 (Special Topics in Biological Sciences – Programming for Biologists) may be an option. Since it is not already an approved elective, it must go through a review process which may not complete in time for registration. If you’d like for the DS Minor to review this course to be potentially added as an elective, please do so through our elective request form. I hope this helps to answer your questions, and best of luck as you choose courses during registration! 
+
+Question: I hope you are doing well! I was looking at my degree audit and noticed that my econ stats course is fulfilling my introduction to statistics qualification for the data science minor. I was wondering if I could swap econ stats out for PSY-PC 2110 (which I'm currently taking) so that I could use it towards the 15 hours solely for data science requirement. Thank you so much for your help! 
+Answer:Sure – I’ll get this updated for you. Confirming that you’re trying to use PSY-PC 2110 to fulfill the statistics requirement for the DS Minor? Is that a correct summary of the situation? 
+
+Question: Hi! My name is FirstName LastName and I’m a sophomore in A&S. With registration coming up, I was wondering if I were able to meet with anybody to discuss advising about my courses and finishing the minor. Any help would be greatly appreciated! 
+Answer: A great way to assess this is to begin with a discussion with your academic advisor. Your academic advisor sees the full scope of your current progress in your academic program (your major(s) and/or other minor(s)) alongside any additional requirements depending on which school you’re in (e.g., A&S vs Engineering). We recommend doing some individual course planning by using the DS Minor requirements page (https://www.vanderbilt.edu/undergrad-datascience/minor/) alongside the Course Descriptions page (https://www.vanderbilt.edu/undergrad-datascience/course-descriptions/). Planning our your anticipated courses semester by semester usually provides solid insights into what may be possible within your undergraduate academic career. We’re happy to answer any specific questions about the minor. For example, we’re happy to address questions about course availability, revisions to degree audits, review of new electives, undergraduate research, and emergent unusual circumstances regarding the DS Minor. I hope this was helpful, and keep in mind that we’ve crafted our website to empower students with as much information as possible to successfully incorporate the DS Minor into their degree programs. Give it a look, and I’m sure between you and your academic advisor, you’ll be able to plan out what can work! Thanks,
