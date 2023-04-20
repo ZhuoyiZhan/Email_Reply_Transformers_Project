@@ -105,7 +105,8 @@ Although ChatGPT claims to be able to handle long contexts, the long context mes
 
 <img width="1040" alt="image" src="https://user-images.githubusercontent.com/71733399/233381525-437451c0-f511-40c8-b692-63c85e9df16e.png">
 
-
+** LangChain
+[notebook implementation 
 
 
 ## Final Conclusions 
